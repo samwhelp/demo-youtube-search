@@ -1,7 +1,7 @@
 
 ## Test
 
-> Please replace [main.sh / {YOUR_API_KEY}] first!
+> Please replace [main.sh / [{YOUR_API_KEY}](main.sh#L9)] first!
 
 Then
 
