@@ -10,7 +10,7 @@ $ sudo apt-get install python3-aiohttp
 
 ## Test
 
-> Please replace [main.sh / [{YOUR_API_KEY}](main.sh#L9)] first!
+> Please replace [main.sh / [{YOUR_API_KEY}](__main__.py#L44)] first!
 
 Then
 
